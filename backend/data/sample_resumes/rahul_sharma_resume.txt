@@ -1,0 +1,33 @@
+Rahul Sharma
+Email: rahul.sharma.ml@gmail.com | Phone: +1 (415) 890-4321 | Location: San Francisco, CA
+
+SUMMARY:
+Applied Machine Learning Engineer with 2 years of hands-on experience building computer vision and deep learning models in PyTorch. Proven track record optimizing real-time object detection systems and engineering automated data pipelines in Python and SQL.
+
+EDUCATION:
+- B.S. in Computer Science (Honors) at University of California, Berkeley (2023)
+
+SKILLS:
+- Programming Languages: Python, C++, SQL, Bash
+- Frameworks: PyTorch, TorchVision, FastAPI, Scikit-Learn, OpenCV
+- Ml Ai: Deep Learning, Computer Vision, Object Detection, YOLO, CNNs, Transfer Learning
+- Databases: PostgreSQL, SQLite
+- Cloud: AWS (S3, EC2), Docker (Basics)
+- Tools: Git, Linux, Jupyter, Weights & Biases, TensorBoard
+
+EXPERIENCE:
+- Machine Learning Engineer at VisionScale AI Labs (Jul 2023 – Present (1 yr 2 mos))
+  * Engineered end-to-end PyTorch deep learning pipelines for image classification and real-time detection, serving over 1.2M daily inference requests.
+  * Constructed automated ETL and data-validation pipelines using Python and PostgreSQL, reducing dirty data rates by 34%.
+  * Benchmarked model inference using TensorRT and ONNX, reducing p95 latency from 140ms down to 38ms.
+- Machine Learning Intern at DataPoint Innovations (Jan 2023 – Jun 2023 (6 mos))
+  * Developed Python scripts for automated dataset curation, augmentation, and hyperparameter tuning sweeps.
+  * Wrote complex SQL queries to aggregate customer usage logs and evaluate predictive churn models.
+
+PROJECTS:
+- Real-Time Object Detection using YOLO: Implemented a real-time edge object detection pipeline achieving 48 FPS on edge devices. Fine-tuned YOLOv8 on custom warehouse inventory dataset with 89.4% mAP50. (Tech: Python, PyTorch, YOLOv8, OpenCV, FastAPI)
+- Predictive Analytics & Forecasting System: Developed an automated regression and gradient boosting pipeline for time-series demand forecasting with custom cross-validation. (Tech: Python, Scikit-Learn, PostgreSQL, Pandas)
+- Academic NLP Sentiment Classifier: Built an exploratory sentiment classification model on IMDb reviews during university coursework using DistilBERT. (Tech: Python, Transformers, Hugging Face)
+
+CERTIFICATIONS:
+- Deep Learning Specialization (DeepLearning.AI, 2023)

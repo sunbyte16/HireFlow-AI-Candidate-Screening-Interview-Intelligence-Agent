@@ -1,0 +1,29 @@
+Arjun Mehta
+Email: arjun.mehta.cv@gmail.com | Phone: +1 (512) 440-9281 | Location: Austin, TX
+
+SUMMARY:
+Computer Vision & Deep Learning Specialist focused on autonomous systems, convolutional neural networks, and OpenCV video analytics pipelines. Skilled in high-throughput video processing and model quantization.
+
+EDUCATION:
+- B.Tech in Electronics & Computer Science at Georgia Tech (2022)
+
+SKILLS:
+- Programming Languages: Python, C++, CUDA, SQL (Basics)
+- Frameworks: PyTorch, TensorFlow, OpenCV, CUDA, TensorRT
+- Ml Ai: Computer Vision, Deep Learning, CNNs, Semantic Segmentation, Lane Tracking, Pose Estimation
+- Databases: SQLite, Redis
+- Cloud: Docker, Linux Edge Systems
+- Tools: Git, CMake, GStreamer, ROS
+
+EXPERIENCE:
+- Computer Vision Engineer at RoboVision Dynamics (Sep 2022 – Present (2 yrs))
+  * Designed semantic segmentation models in PyTorch for obstacle detection deployed to embedded robotics hardware.
+  * Implemented C++ and OpenCV multi-threaded video stream decoders achieving 60 FPS under constrained compute budgets.
+  * Containerized inference environments using Docker for reproducible deployment across edge fleets.
+
+PROJECTS:
+- Autonomous Lane Navigation & Tracking: Built lane detection and steering angle prediction model trained on real-world driving footage with custom temporal smoothing. (Tech: Python, PyTorch, OpenCV, Docker)
+- Real-Time Facial Landmark & Pose Estimation: Optimized 68-point facial landmark regressor running at sub-15ms latency per frame on low-power Jetson hardware. (Tech: Python, OpenCV, PyTorch, TensorRT)
+
+CERTIFICATIONS:
+- NVIDIA Certified Deep Learning Developer (NVIDIA Deep Learning Institute, 2023)

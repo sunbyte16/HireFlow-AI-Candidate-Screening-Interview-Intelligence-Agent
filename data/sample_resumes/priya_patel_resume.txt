@@ -1,0 +1,29 @@
+Priya Patel
+Email: priya.patel.ds@outlook.com | Phone: +1 (206) 555-0198 | Location: Seattle, WA
+
+SUMMARY:
+Data Scientist and NLP Specialist with strong background in statistical modeling, enterprise SQL warehousing, and transformer-based text analytics. Experienced in production sentiment analysis and customer intent classification.
+
+EDUCATION:
+- M.S. in Data Science at University of Washington (2023)
+
+SKILLS:
+- Programming Languages: Python, SQL, R, Scala
+- Frameworks: Scikit-Learn, Hugging Face, PyTorch (Basics), Pandas, NumPy
+- Ml Ai: NLP, Transformers, BERT, Text Summarization, Topic Modeling, Machine Learning
+- Databases: PostgreSQL, Snowflake, BigQuery
+- Cloud: AWS (Redshift, S3)
+- Tools: Git, Tableau, Airflow, Jupyter
+
+EXPERIENCE:
+- Data Scientist - NLP at CloudAnalytics Corp (Aug 2023 – Present (1 yr 1 mo))
+  * Trained and deployed transformer models (RoBERTa) for multi-class customer support ticket classification with 93% F1 score.
+  * Designed large-scale data transformation workflows in PostgreSQL and Snowflake handling 5M+ records weekly.
+  * Conducted A/B testing on model-driven routing, cutting average resolution time by 28%.
+
+PROJECTS:
+- Enterprise NLP Sentiment & Intent Pipeline: Architected an end-to-end NLP pipeline analyzing streaming customer feedback and categorizing urgency levels in real time. (Tech: Python, Hugging Face, PyTorch, SQL, FastAPI)
+- Predictive Customer Churn Engine: Constructed churn prediction model using LightGBM and Random Forests with SHAP interpretability values. (Tech: Python, Scikit-Learn, SQL, Pandas)
+
+CERTIFICATIONS:
+- AWS Certified Machine Learning – Specialty (Amazon Web Services, 2024)
